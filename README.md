@@ -120,7 +120,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](images/dashboard.png)
+![Vendor Performance Dashboard](https://github.com/Nagendra7290/Vendorperformances--dashboard---powerbi-jupytenotbook-main/blob/main/Screenshot%202026-02-01%20195423.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
