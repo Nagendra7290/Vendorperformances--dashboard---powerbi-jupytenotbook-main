@@ -155,6 +155,6 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
-Data Analyst  
+**Nagendra Arya**  
+Control Tower Executive & Data Analyst  
 📧 Email: kumarnagendra450@gmail.com
